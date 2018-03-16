@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 		La déclaration de méthodes (fonctions) (avec arguments) 
  * 		L'extraction de code pour avoir des méthodes. (Selection de code + Refactor/Extract Method) 
  * 		L'utilisation du clavier 
- * 		Les conditions 
+ * 		Les conditions. 
  * 		Les boucles
  * 
  * Pour générer le programme en exécutable : 
